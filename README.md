@@ -5,7 +5,6 @@ At the beginning, please download ANTLR 3.5.2 with the link below. The project i
 ## Project
 **● Project 1:** Write a lexical analyzer "mylexer.g" file to choose the a set of language features.
 
-
 **● Project 2:** Write a syntax analyzer "myparser.g" file to decide the set of language feature.
 
 
