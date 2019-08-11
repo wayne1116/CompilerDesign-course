@@ -1,5 +1,5 @@
-# Course Outline
-A compiler is a program that translates programs written in a source language into programs written in a target language. This course introduces the principles, techniques and tools for designing a compiler. An emphasis is placed on a programming project that applies the techniques and tools learned from the course to implement a compiler for a small language.
+# Compiler project 
+At the beginning, please download ANTLR 3.5.2 with the link below. The project is divided into several parts including language definition, lexical analyzer, C-grammar, symbol table handlings, parser, and code generation.
 
 **ANTLR 3.5.2 Download:** https://www.antlr3.org/download.html
 ## Project
