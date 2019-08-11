@@ -10,5 +10,5 @@ At the beginning, please download ANTLR 3.5.2 with the link below. The project i
 **● Project 3:** Implement a C interpreter.
 
 **● Project 4:** Write a "myCompiler.g" file to generate the Jasmin assembly code.
-              **Jasmin Download:** https://sourceforge.net/projects/jasmin/files/
+              &nbsp;Input 1, 2, 3 will be the testing files to check the defined tokens.
   
