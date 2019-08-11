@@ -3,4 +3,5 @@ At the beginning, please download ANTLR 3.5.2 with the link below. The project i
 
 **ANTLR 3.5.2 Download:** https://www.antlr3.org/download.html
 ## Project
-:small_orange_diamond: **Project 1 :
+**● Project 1:** Write a "mylexer.g" file to set the tokens (terminals) of your compiler.  
+　　　　　&nbsp;Input 1, 2, 3 will be the testing files to check the defined tokens.
